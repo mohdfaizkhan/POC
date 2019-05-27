@@ -1,0 +1,6 @@
+com\emirates\service\RabbitMQProducer.class
+com\emirates\SpringBootProducerApplication.class
+com\emirates\controller\HealthCheck.class
+com\emirates\controller\RabbitMQWebController.class
+com\emirates\controller\RabbitMQWebController$1.class
+com\emirates\model\Customer.class
